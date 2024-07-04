@@ -50,9 +50,7 @@ This Streamlit web application is built to detect fraudulent transactions in cre
 - Matplotlib
 - Seaborn
 
-## Contributors
 
-- Ranu Bhasker (https://github.com/Ranu2001)
 
 
 ## License
